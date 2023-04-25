@@ -2,6 +2,7 @@
 Experimental Leidenfrost study of impacting droplets of n-butanol - water binary mixtures at different velocities
 
 <p align="center">
-Pure butanol drop impacting a heated steel plate at 0.25 mps ![Pure butanol drop impacting heated steel plate at 0.25 mps](anim2.gif "Pure butanol drop impacting a heated steel plate at 0.25 mps")
-</p>
+Pure butanol drop impacting a heated steel plate at 0.25 mps </p>
+
+![Pure butanol drop impacting heated steel plate at 0.25 mps](anim2.gif "Pure butanol drop impacting a heated steel plate at 0.25 mps")
 
