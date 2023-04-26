@@ -1,5 +1,4 @@
-# leidenfrost-study-of-impacting-droplets
-Experimental Leidenfrost study of impacting droplets of n-butanol - water binary mixtures at different velocities
+# Experimental Leidenfrost study of impacting droplets of n-butanol - water binary mixtures at different velocities
 
 ![Pure butanol drop impacting heated steel plate(210 degC) at 0.25 mps](anim2.gif)
 
